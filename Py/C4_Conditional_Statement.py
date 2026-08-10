@@ -29,7 +29,7 @@ print(f"Your grade is: {grade}")
 #Example C: and: both conditions must be True
 
 user_age = 25 
-has_license = True
+has_license = True 
 
 
 
